@@ -4,9 +4,9 @@ Don't wait just watch .
 
 Contributors - 
 
-Dev Singhal - E20CSE116  
-
 Vaibhav Ganeriwala - E20CSE132
+
+Dev Singhal - E20CSE116
 
 Tushar Dadhich- E20CSE138
 
